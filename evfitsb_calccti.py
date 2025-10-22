@@ -12,6 +12,7 @@
 # CCD parameters are read via fits header information 2025/07/02
 # 2025.07.08
 # 2025.07.09 CTI factors of slope and offset should be saved (before slope only)
+# 2025.10.22 comment
 
 #import PIL as pil
 #from my_functions_20190830 import *
